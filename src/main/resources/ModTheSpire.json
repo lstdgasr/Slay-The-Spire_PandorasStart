@@ -1,0 +1,11 @@
+{
+  "modid": "pandoras_start",
+  "name": "Pandora's Start",
+  "author_list": ["Local"],
+  "description": "${project.description}",
+  "version": "${project.version}",
+  "sts_version": "12-22-2020",
+  "mts_version": "3.0.0",
+  "dependencies": ["basemod"],
+  "update_json": ""
+}
